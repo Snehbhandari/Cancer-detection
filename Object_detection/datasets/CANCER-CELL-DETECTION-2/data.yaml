@@ -1,0 +1,13 @@
+names:
+- Healthy cell
+- cancer-cell-QiJm
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: cancer-cell-detection-i5f4r
+  url: https://universe.roboflow.com/gp-seij9/cancer-cell-detection-i5f4r/dataset/2
+  version: 2
+  workspace: gp-seij9
+test: ../test/images
+train: /Users/snehbhandari/Documents/Object_detection/datasets/CANCER-CELL-DETECTION-2/train/images
+val: /Users/snehbhandari/Documents/Object_detection/datasets/CANCER-CELL-DETECTION-2/valid/images
